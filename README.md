@@ -1,21 +1,112 @@
-# 💫 About Me:
- Atualmente estou cursando Ciência da Computação na Faculdade Cruzeiro do Sul. Meu interesse por novas tecnologias e programação surgiu durante minha infância, onde tive muito contato com tecnologias e computadores. Ingressei no ensino médio da Etec professor Camargo Aranha, onde tive a oportunidade de me aprofundar em conceitos que me levaram a cursar Ciência da Computação.<br><br>💻Minhas principais ferramentas incluem:<br><br>Python: Crio soluções de automatização de tarefas [UNICSUL/ALURA].<br>JavaScript: Uso com python e html para ter mais versatilidade [ETEC/UNICSUL/ALURA].<br>Java: Aprendi o básico da programação orientada a objetos usando Java [ETEC/ALURA].<br>RUST: Também conheço R e gosto de explorar o desenvolvimento de aplicativos com multithreading e performance. [ALURA]<br><br><br>
+# 👋 Olá! Eu sou [Seu Nome]
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia)
+  
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/andrewdyre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andré-felipe-jorge-rachid-797325267/) 
+## 🚀 Sobre Mim
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AndreRachid-rgb&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AndreRachid-rgb&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRachid-rgb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Estudante de **Ciência da Computação** na Faculdade Cruzeiro do Sul, com uma paixão por tecnologia que começou na infância. Minha jornada na programação foi consolidada durante o ensino médio na **ETEC Professor Camargo Aranha**, onde desenvolvi uma base sólida em desenvolvimento de software.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Busco constantemente aprimorar minhas habilidades através de cursos e projetos práticos, com foco em criar soluções eficientes e escaláveis.
+
+## 💼 Experiência & Formação
+
+```
+📚 Ciência da Computação - Faculdade Cruzeiro do Sul (em andamento)
+🎓 Ensino Técnico - ETEC Professor Camargo Aranha
+📖 Cursos complementares - Alura
+```
+
+## 🛠️ Stack Tecnológico
+
+### Linguagens de Programação
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</div>
+
+### Tecnologias & Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🎯 Áreas de Especialização
+
+```python
+especialidades = {
+    "Python": ["Automação de Tarefas", "Scripts", "Backend"],
+    "JavaScript": ["Desenvolvimento Web", "Integração Frontend/Backend"],
+    "Java": ["Programação Orientada a Objetos", "Estruturas de Dados"],
+    "Rust": ["Multithreading", "Performance", "Sistemas"]
+}
+```
+
+### 🔥 Destaques
+
+- 🤖 **Automação**: Desenvolvimento de soluções que otimizam processos
+- 🌐 **Full Stack**: Experiência com desenvolvimento web completo
+- ⚡ **Performance**: Interesse em otimização e programação de alto desempenho
+- 🧵 **Concorrência**: Exploração de multithreading e programação paralela
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRachid-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRachid-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreRachid-rgb&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+
+</div>
+
+## 🌱 Atualmente Aprendendo
+
+- Aprofundamento em arquitetura de software
+- Desenvolvimento de aplicações escaláveis
+- Boas práticas de código limpo e design patterns
+- DevOps e containerização
+
+## 💡 Citação Motivacional
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-felipe-jorge-rachid-797325267)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreRachid-rgb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrezinho_rachid@hotmail.com.br)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AndreRachid-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+  ### ⚡ "O código é poesia escrita em lógica"
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AndreRachid-rgb&color=6366F1&style=flat-square&label=Visitantes)
+  
+</div>
