@@ -67,12 +67,21 @@ especialidades = {
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRachid-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRachid-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreRachid-rgb&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AndreRachid-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" 
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRachid-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"
+    alt="Top Langs"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AndreRachid-rgb&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"
+    alt="GitHub Streak"
+  />
 
 </div>
 
