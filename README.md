@@ -68,7 +68,7 @@ especialidades = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRachid-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRachid-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRachid-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
   
