@@ -35,7 +35,7 @@ Busco constantemente aprimorar minhas habilidades através de cursos e projetos 
 | [⭐ Star-fit](https://github.com/Ansbach-0/Star-fit) | Gerenciador de academias | `JavaScript` |
 | [🖥️ UbiOver-CLI](https://github.com/Ansbach-0/UbiOver-CLI) | Automação e gestão de contas via console | `Python` `Rich` `Supabase` |
 | [🎯 Habit Tracker](https://github.com/AndreRachid-rgb/AIProjects) | App full-stack de rastreamento de hábitos | `FastAPI` `Next.js` `TypeScript` |
-| [🤖 MiceAgent](https://github.com/Ansbach-0/MiceAgent) | Agente de automação inteligente | `JavaScript` |
+| [🤖 MiceAgent](https://github.com/AndreRachid-rgb/Miceagent-Extension) | Agente de automação inteligente | `JavaScript` |
 | [🎙️ AetherStudio](https://github.com/Ansbach-0/AetherStudio) | Web app de clonagem de voz | `Python` |
 </div>
 
